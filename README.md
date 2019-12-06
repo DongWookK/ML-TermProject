@@ -6,13 +6,13 @@ object setting was free concept.
 Our project's detail description and datasets are include in project.
 
 
-
+<br>
 1. Classification
 
 dataset : Bank Marketing
   https://www.kaggle.com/henriqueyamahata/bank-marketing
   
-object :  Fid people that subscribe deposit receive advertise again
+object :  Find people that subscribe deposit receive advertise again
 
 process:
     -object setting
